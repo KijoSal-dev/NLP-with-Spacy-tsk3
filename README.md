@@ -19,3 +19,7 @@ This project demonstrates a rule-based approach to analyzing Amazon product revi
 
 1. Clone the repository (if applicable) or copy the code into a Colab notebook.
 2. Install spaCy:
+
+## Ethical Considerations and Bias Mitigation with Rule-Based Systems
+
+Rule-based systems in spaCy, like the custom sentiment analyzer and entity ruler implemented above, can help mitigate some biases inherent in purely statistical or machine learning models.
